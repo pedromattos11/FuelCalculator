@@ -9,9 +9,17 @@ This simple web application helps you calculate whether it's more cost-effective
 - Stylish and user-friendly design.
 - Easy to use and understand.
 
+## Getting Started
+
+To run this web app locally, follow these steps:
+
+1. Clone this repository:
+
+   ```sh
+   git clone https://github.com/pedromattos11/Fuel-Calculator-Web-App
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at [pedro.hmattos19@gmail.com] or linkedin [https://www.linkedin.com/in/pedro-mattos-09b7271b4/].
+If you have any questions or suggestions, feel free to contact me at [pedro.hmattos19@gmail.com] or linkedin [].
 
 Enjoy using the Fuel Calculator Web App!
