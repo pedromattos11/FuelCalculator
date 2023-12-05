@@ -4,10 +4,10 @@ This simple web application helps you calculate whether it's more cost-effective
 
 ## Features
 
-- Input fields for gasoline and ethanol prices.
-- Calculates which fuel is more cost-effective.
-- Stylish and user-friendly design.
-- Easy to use and understand.
+- Input fields for gasoline and ethanol prices
+- Calculates which fuel is more cost-effective
+- Stylish and user-friendly design
+- Easy to use and understand
 
 ## Contact
 
