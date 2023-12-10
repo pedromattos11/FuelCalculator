@@ -13,4 +13,4 @@ This simple web application helps you calculate whether it's more cost-effective
 
 If you have any questions or suggestions, feel free to contact me at [pedro.hmattos19@gmail.com] or linkedin [https://www.linkedin.com/in/pedro-mattos-09b7271b4/] 
 
-Enjoy using the Fuel Calculator Web App!
+Enjoy using the Fuel Calculator Web App.
